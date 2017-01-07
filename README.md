@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/sheenobu/go-webfinger?status.svg)](https://godoc.org/github.com/sheenobu/go-webfinger)
+
 # go-webfinger
 
 go-webfinger is a golang webfinger server implementation.
