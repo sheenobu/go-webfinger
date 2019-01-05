@@ -7,7 +7,7 @@ go-webfinger is a golang webfinger server implementation.
 ## Status
 
 Project has had no input/work by me (sheenobu) in the past 2 years. Marking
-the package as 1.0 to match [github.com/writeas/go-webfinger](github.com/writeas/go-webfinger).
+the package as 1.0 to match [github.com/writeas/go-webfinger](https://github.com/writeas/go-webfinger).
 
 ## Usage
 
